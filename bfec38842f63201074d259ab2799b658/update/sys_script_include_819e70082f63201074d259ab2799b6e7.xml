@@ -12,6 +12,7 @@ LearnCode.prototype = {
     initialize: function() {
     },
 //This is version 1
+// lets rock & roll
     type: 'LearnCode'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
